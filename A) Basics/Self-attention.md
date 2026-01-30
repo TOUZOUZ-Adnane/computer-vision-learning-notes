@@ -4,7 +4,7 @@ Self-attention is a mechanism that lets each element of an input (token, pixel, 
 # Core idea
 For each token, self-attention answers:
 	*Which other tokens should I pay attention to, and by how much?*  
-![[self_attention.png|400]]
+![](<../Z) assets/self_attention.png>)
 
 # Self-attention in vision
 ## Vision Transformers (ViT)
