@@ -1,7 +1,8 @@
 
 A Vision Language model is a multimodal model trained to jointly understand images and natural language. Unlike classic computer vision models (CNNs, ViTs) that output labels or embeddings, VLMs learn a shared representation space between visual and textual data.
 
-![[VLM.jpeg]]
+![](<../Z) assets/VLM.jpeg>)
+
 # In short:
 - Vision -> pixels / patches
 - Language -> tokens
