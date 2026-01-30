@@ -1,6 +1,6 @@
 
 A skip connection (also called a shortcut connection) is a neural network design patters where the input of a layer is added or concatenated directly to the output of a later layer, bypassing one or more intermidiate layers
-![[skip_connection.png | 600]]
+![](<../Z) assets/skip_connection.png>)
 
 # Why skip connections are used
 - Mitigate vanishing gradients: Gradients can flow directly through the shortcut
