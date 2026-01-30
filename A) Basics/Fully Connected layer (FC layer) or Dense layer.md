@@ -3,7 +3,7 @@ it is a neural network layer where every input neuron is connected to every outp
 
 Each output unit depends on all input features, unlike convolution layers which connect locally
 
-![[fc_layer.png|400]]
+![](<../Z) assets/fc_layer.png>)
 # Where it is used
 - Classification heads (mapping features -> class scores)
 - Regression outputs
