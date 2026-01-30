@@ -14,7 +14,8 @@
 BatchNorm keeps each layer's inputs in a stable range, so every layer under consistent conditions as training progresses
 
 there is other types of normalization
-![[normalization_types.png]]
+
+![](<../Z) assets/normalization_types.png>)
 
 # BatchNorm
 	For each channel (c), we minus it with its corresponding mean, which is calculated over the whole batch and all pixels
