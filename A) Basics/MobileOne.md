@@ -2,7 +2,7 @@
 
 MobileOne is lightweight convolutional neural network backbone designed for ultra-fast inference on mobile and edge devices
 
-![[mobileone.png|400]]
+![](<../Z) assets/mobileone.png>)
 # Core idea
 MobileOne uses structural re-parameterization:
 - During training: multi-branch blocks improve optimization and accuracy
